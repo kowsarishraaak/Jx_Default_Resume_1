@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+ 
+}
+.social_media_icon{
+  height: 25px; 
+}
+
+.icon{
+  height: 30px;
+  width: 30px;
+}
+.skills{
+  width: 100%;
+}
+.icon-c {
+  height: 30px;
+  width: 30px;
+}
+.contact a{
+  text-decoration: none;
+  font-style: italic;
+  color: black;
+}
